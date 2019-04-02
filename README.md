@@ -82,6 +82,10 @@ CodeDeploy & EC2CodeDeploy
     &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; aws s3 cp s3://aws-codedeploy-us-west-2/latest/install . --region us-west-2 (if in west AWS)
         <br />
         <br />
+            &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; aws s3 cp s3://aws-codedeploy-ap-northeast-2/latest/install . --region ap-northeast-2 (if in asis AWS)
+         
+
+
    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;     chmod +x ./install
         <br />
         <br />
